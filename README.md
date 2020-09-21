@@ -10,3 +10,6 @@ Assemble the assembler language code into object code which were in the reposito
 
 Basic assembler supporting the SIC/XE version.Assemble the. Be able to assemble the SIC/XE's assembler language into object code.
 
+##### Simple Demo
+
+There's a simple demo input file and out put file in the path of /SIC_assembler and /SIC_XE_Basic, the input files are name type as .asm and the output file type will be like .lst and .obj.
